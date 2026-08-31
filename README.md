@@ -2,7 +2,7 @@
 
 This section contains my web development projects created while developing my skills in front end web development and responsive design.
 
-The projects focus on building clean, responsive, user-friendly websites while applying practical knowledge of HTML, CSS and JavaScript
+The projects focus on building responsive, user friendly websites while applying practical knowledge of HTML, CSS and JavaScript
 
 ## Areas Covered
 
@@ -26,22 +26,7 @@ My projects include websites created around different concepts and use cases, in
 - Information and content websites
 - Personal portfolio websites
 - Responsive landing pages
-- Business and service websites
 - Interactive web pages
-- Practice projects focused on specific HTML, CSS, and JavaScript concepts
-
-## Development Approach
-
-I focus on building projects from the ground up and using each project to strengthen my understanding of web development concepts.
-
-Projects are developed with an emphasis on:
-
-- Clean and organized code
-- Responsive layouts
-- User-friendly navigation
-- Consistent visual design
-- Reusable components and styling
-- Cross-device compatibility
 
 ## Objective
 
