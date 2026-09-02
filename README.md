@@ -8,7 +8,7 @@ This project is a responsive website created to highlight the South African cont
 
 The website was developed as part of my web development portfolio to demonstrate my understanding of **HTML and CSS**, website structure, page layout, navigation, and responsive design.
 
-## 🎯 Project Goals
+## Project Goals
 
 * Showcase the South African content creator economy specifically on youtube.
 * Organise creators into different content categories.
@@ -16,12 +16,12 @@ The website was developed as part of my web development portfolio to demonstrate
 * Practise building a website from scratch using HTML and CSS.
 * Develop a project that can be included in my web development portfolio.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **HTML5** – Used to structure the website and its content.
 * **CSS3** – Used for styling, layouts, spacing, colors, and responsive design.
 
-## ✨ Features
+## Features
 
 * Homepage/landing section
 * Navigation menu
