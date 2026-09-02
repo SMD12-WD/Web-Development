@@ -1,35 +1,61 @@
-# Web Development Projects
+# South African creator economy information webpage
 
-This section contains my web development projects created while developing my skills in front end web development and responsive design.
+A web development project showcasing South African digital content creators across different categories and areas of content on youtube specifically.
 
-The projects focus on building responsive, user friendly websites while applying practical knowledge of HTML, CSS and JavaScript
+## About the Project
 
-## Areas Covered
+This project is a responsive website created to highlight the South African content creator economy and provide visitors with an easy way to discover different creators and the content they produce.
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive web design
-- Website layouts and navigation
-- Flexbox and CSS Grid
-- Forms and user input
-- Responsive design for different screen sizes
-- UI/UX principles
-- Typography and visual hierarchy
-- Website accessibility
-- CSS animations and transitions
+The website was developed as part of my web development portfolio to demonstrate my understanding of **HTML and CSS**, website structure, page layout, navigation, and responsive design.
 
-## Projects
+## 🎯 Project Goals
 
-My projects include websites created around different concepts and use cases, including:
+* Showcase the South African content creator economy specifically on youtube.
+* Organise creators into different content categories.
+* Create a clean and easy to navigate website.
+* Practise building a website from scratch using HTML and CSS.
+* Develop a project that can be included in my web development portfolio.
 
-- Information and content websites
-- Personal portfolio websites
-- Responsive landing pages
-- Interactive web pages
+## 🛠️ Technologies Used
 
-## Objective
+* **HTML5** – Used to structure the website and its content.
+* **CSS3** – Used for styling, layouts, spacing, colors, and responsive design.
 
-The goal of these projects is to build practical front end development experience and create a portfolio that demonstrates my ability to design and develop functional, responsive websites.
+## ✨ Features
 
-I will continue expanding this collection as I develop my skills in JavaScript, modern web technologies, and full stack development.
+* Homepage/landing section
+* Navigation menu
+* Content creator profiles
+* Creator categories
+* Images and creator information
+* Links to external creator platforms
+* Responsive page layout
+* Clean and simple user interface
+
+## What I Learned
+
+Through this project, I gained practical experience with:
+
+* Structuring webpages using semantic HTML.
+* Creating navigation menus.
+* Working with headings, paragraphs, images, and links.
+* Styling webpages with CSS.
+* Using CSS layouts to organise content.
+* Creating responsive web pages.
+* Organising files and assets within a web project.
+* Building a complete website from scratch.
+
+## Future Improvements
+
+future improvements include:
+
+* Adding JavaScript functionality.
+* Adding search and filtering for creators.
+* Improving accessibility.
+
+
+##  Project Purpose
+
+This project forms part of my growing **web development portfolio** and demonstrates my progression in front end development using HTML and CSS with the addition of JavaScript as i contunue in my development. 
+
+
